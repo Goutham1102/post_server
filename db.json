@@ -1,25 +1,11 @@
 {
   "posts": [
     {
-      "id": "dc95",
-      "content": "hi all this is my first schedule",
-      "image": "https://www.postplanner.com/hubfs/social_media_posting_schedule-2.jpg",
-      "date": "2025-10-30",
-      "platform": "Instagram"
-    },
-    {
-      "content": "hihihi",
-      "image": "kgkg",
-      "date": "2002-11-11",
+      "content": "my first post edited",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXLb3TY72rHh4VSJUR8UGa83p3ABg3FRBNrw&s",
+      "date": "2025-10-31",
       "platform": "Instagram",
-      "id": "4uhfght"
-    },
-    {
-      "content": "333`",
-      "image": "hhh",
-      "date": "2025-11-11",
-      "platform": "Instagram",
-      "id": "iyxwIe4"
+      "id": 1
     }
   ]
 }

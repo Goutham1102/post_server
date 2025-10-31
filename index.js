@@ -12,8 +12,7 @@ const router = jsonServer.router("db.json");
 
 // Step 5: Use middleware and router
 server.use(middleware);
-server.use("/api", router); // 👈 Adds /api prefix (good practice)
-
+server.use( router); 
 // Step 6: Define Port (put process.env.PORT first)
 const PORT = process.env.PORT || 3000;
 
